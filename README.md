@@ -5,5 +5,5 @@ Clone this repo, then
 ```
 wget http://www.openssl.org/source/openssl-1.0.2u.tar.gz
 wget http://www.openssl.org/source/openssl-fips-2.0.16.tar.gz
-docker build .
+./build.sh
 ```
